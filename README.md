@@ -8,7 +8,7 @@ DEV
 
 ```sh
 cargo run
-cargo run --bin server
+cargo run --bin axum_standards_demo
 cargo check
 cargo fmt
 ```
