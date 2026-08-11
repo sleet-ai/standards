@@ -1,0 +1,30 @@
+/* sleet css */
+/* ============================================================== */
+/* COLOR */
+body {
+  background-color: #7d84b2;
+  color: #ffffff;
+}
+/* ============================================================== */
+/* FONT */
+body {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Offside", sans-serif;
+  /*font-weight: 400;*/
+  /*font-style: normal;*/
+}
+/* ============================================================== */
+/* ALIGNMENT  */
+body {
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+}
