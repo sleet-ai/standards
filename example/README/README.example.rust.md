@@ -15,6 +15,11 @@ cargo clean
 cargo check --target wasm32-unknown-unknown
 cargo fmt
 cargo update
+
+# netlify
+# commonprefix-project
+netlify deploy
+netlify deploy --prod
 ```
 
 
